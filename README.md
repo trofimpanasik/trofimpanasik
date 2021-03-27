@@ -1,6 +1,6 @@
 
 
-<img src="Files/Avatar.png" align="right" width="200" height="200" />
+<img src="files/Avatar.png" align="right" width="200" height="200" />
 
 ## ⚡ Kequin <br> Fullstack web dev
 **I write code in:** Javascript, HTML, CSS <br>
