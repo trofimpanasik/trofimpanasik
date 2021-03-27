@@ -7,7 +7,7 @@
 **Frameworks / libs:** React.js <br>
 **Experience:** Frontend - 5-6 months<br>
 
-## social
+## 💬 social
 
 <a href="t.me/fuckreact">я в телеграмме</a>
 
