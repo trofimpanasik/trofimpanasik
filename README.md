@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<div style="display: flex;">
+<div display: flex>
         <div>
             <h1>
                 h1
