@@ -2,7 +2,7 @@
 
 
 <div style="display: flex;">
-        <div style="width: 70%;">
+        <div>
             <h1>
                 h1
             </h1>
