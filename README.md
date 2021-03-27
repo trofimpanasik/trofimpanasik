@@ -9,7 +9,7 @@
 
 ## 💬 social
 
-<a href="t.me/fuckreact">я в телеграмме</a>
+<a href="https//:t.me/fuckreact">я в телеграмме</a>
 
 ## 📫 Stats
 
