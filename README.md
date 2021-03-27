@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<div display: flex>
+<div>
         <div>
             <h1>
                 h1
@@ -9,7 +9,7 @@
             <hr>
             <!-- here any code -->
         </div>
-        <img src='files/avatar.png' height=200px width=200px>
+        <img src='files/avatar.png' align='right' height=200px width=200px>
 </div>
 
 
