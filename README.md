@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-
-<h1>тут мой заголовок</h1>
-
+Kequin
+<h1>Fronted web dev</h1>
+<img src="files/avatar.png" >
 
 
 
