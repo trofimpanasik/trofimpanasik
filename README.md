@@ -2,16 +2,16 @@
 
 <img src="files/avatar.png" align="right" width="200" height="200" />
 
-## ⚡ Kequin <br> Fullstack web dev
+## ⚡ Kequin <br> Frontend web dev
 **I write code in:** Javascript, HTML, CSS <br>
 **Frameworks / libs:** React.js <br>
 **Experience:** Frontend - 5-6 months<br>
 
 ## 💬 social
 
-<a href="https//:t.me/fuckreact">я в телеграмме</a>
-<a href="https//:t.me/fuckreact">я в дискорд</a>
-<a href="https//:t.me/fuckreact">я в вк</a>
+<a href="https//:t.me/fuckreact"><img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111644.svg?token=exp=1616885959~hmac=d8f77a54d0b40901b7533caa5cf99138" height="10px"></img></a>
+<a href="https//:https://discord.gg/yWwrMgPs"><img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111370.svg?token=exp=1616886060~hmac=4013130a6e5917c5a4066cdfb05f1d75" height="10px" ></img></a>
+<a href="https//:https://vk.com/kurkurnezov"><img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111712.svg?token=exp=1616886025~hmac=1cc5990dd28ca383d4bd2f423b18173b" height="10px" ></img></a>
 
 ## 📫 Stats
 
@@ -21,7 +21,6 @@
 
 
 
-###
 <!--
 **kequin/kequin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
