@@ -10,8 +10,8 @@
 ## 💬 social
 
 <a href="https//:t.me/fuckreact"><img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111644.svg?token=exp=1616885959~hmac=d8f77a54d0b40901b7533caa5cf99138" height="30px"></img></a>
-<a href="https//:https://discord.gg/yWwrMgPs"><img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111370.svg?token=exp=1616886060~hmac=4013130a6e5917c5a4066cdfb05f1d75" height="30px" ></img></a>
-<a href="https//:https://vk.com/kurkurnezov"><img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111712.svg?token=exp=1616886025~hmac=1cc5990dd28ca383d4bd2f423b18173b" height="30px" ></img></a>
+<a href="https//:https://discord.gg/yWwrMgPs"><img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111370.svg?token=exp=1616886060~hmac=4013130a6e5917c5a4066cdfb05f1d75" height="30px" margin-left="10px" ></img></a>
+<a href="https//:https://vk.com/kurkurnezov"><img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111712.svg?token=exp=1616886025~hmac=1cc5990dd28ca383d4bd2f423b18173b" height="30px" margin-left="10px"></img></a>
 
 ## 📫 Stats
 
