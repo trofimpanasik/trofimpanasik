@@ -9,7 +9,7 @@
             <hr>
             <!-- here any code -->
         </div>
-        <div style="background-image: url('avatar.png'); height: 210px; width: 210px; background-repeat: no-repeat; background-size: cover; border-radius: 50%;" ></div>
+        <div style="background-image: url('files/avatar.png'); height: 210px; width: 210px; background-repeat: no-repeat; background-size: cover; border-radius: 50%;" ></div>
 </div>
 
 
