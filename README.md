@@ -3,7 +3,7 @@
 
 Kequin
 <h1>Fronted web dev</h1>
-<img src="files/avatar.png" >
+<img src="files/avatar.jpg" >
 
 
 
