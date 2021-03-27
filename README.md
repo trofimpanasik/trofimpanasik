@@ -9,7 +9,7 @@
             <hr>
             <!-- here any code -->
         </div>
-        <img src='files/avatar.png' style="border-radius=50%; height=200px">
+        <img src='files/avatar.png' border-radius=50% height=200px>
 </div>
 
 
