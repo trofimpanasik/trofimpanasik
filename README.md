@@ -1,9 +1,16 @@
 ### Hi there 👋
 
 
-Kequin
-<h1>Fronted web dev</h1>
-<img src="files/avatar.jpg" >
+<div style="display: flex;">
+        <div style="width: 70%;">
+            <h1>
+                h1
+            </h1>
+            <hr>
+            <!-- here any code -->
+        </div>
+        <div style="background-image: url('avatar.png'); height: 210px; width: 210px; background-repeat: no-repeat; background-size: cover; border-radius: 50%;" ></div>
+</div>
 
 
 
