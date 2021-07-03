@@ -5,7 +5,7 @@
 ## ⚡ Kequin <br> Frontend web dev
 **I write code in:** Javascript, HTML, CSS <br>
 **Frameworks / libs:** React.js <br>
-**Experience:** Frontend - 5-6 months<br>
+**Experience:** Frontend - 7-8 months<br>
 
 ## 💬 social
 
