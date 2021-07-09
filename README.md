@@ -2,7 +2,7 @@
 
 <img src="files/avatar.png" align="right" width="200" height="200" />
 
-## ⚡ Kequin <br> Frontend web dev
+## ⚡ Keqing <br> Frontend web dev
 **I write code in:** Javascript, HTML, CSS <br>
 **Frameworks / libs:** React.js <br>
 **Experience:** Frontend - 7-8 months<br>
