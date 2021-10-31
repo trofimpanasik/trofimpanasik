@@ -15,7 +15,7 @@
 
 ## 📫 Stats
 
-![trofimpanasik github stats](https://github-readme-stats.vercel.app/api?username=kequin&show_icons=true&theme=nightowl&bg_color=45,0f0c29,302b63,24243e)
+![trofimpanasik github stats](https://github-readme-stats.vercel.app/api?username=trofimpanasik&show_icons=true&theme=nightowl&bg_color=45,0f0c29,302b63,24243e)
 <br>
 
 
