@@ -1,8 +1,4 @@
-
-
-<img src="files/avatar.png" align="right" width="200" height="200" />
-
-## ⚡ Trofim <br> Frontend/backeng web dev
+## ⚡ Trofim  Frontend/Backend web dev
 **I write code in:** Javascript, HTML, CSS <br>
 **Frameworks / libs:** React.js, Express, React Native <br>
 **Experience:** Frontend - 8-9 months, Backend - 3-4 months<br>
