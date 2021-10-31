@@ -2,10 +2,10 @@
 
 <img src="files/avatar.png" align="right" width="200" height="200" />
 
-## ⚡ Keqing <br> Frontend web dev
+## ⚡ Trofim <br> Frontend/backeng web dev
 **I write code in:** Javascript, HTML, CSS <br>
-**Frameworks / libs:** React.js <br>
-**Experience:** Frontend - 7-8 months<br>
+**Frameworks / libs:** React.js, Express, React Native <br>
+**Experience:** Frontend - 8-9 months, Backend - 3-4 months<br>
 
 ## 💬 social
 
@@ -15,8 +15,7 @@
 
 ## 📫 Stats
 
-![kequin github stats](https://github-readme-stats.vercel.app/api?username=kequin&show_icons=true&theme=nightowl&bg_color=45,0f0c29,302b63,24243e)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kequin&hide=html&theme=nightowl&bg_color=45,0f0c29,302b63,24243e)
+![trofimpanasik github stats](https://github-readme-stats.vercel.app/api?username=kequin&show_icons=true&theme=nightowl&bg_color=45,0f0c29,302b63,24243e)
 <br>
 
 
