@@ -1,4 +1,4 @@
-## ⚡ Trofim  Frontend/Backend web dev
+## ⚡ Trofim  Frontend/Backend dev
 **I write code in:** Javascript, HTML, CSS <br>
 **Frameworks / libs:** React.js, Express, React Native <br>
 **Experience:** Frontend - 8-9 months, Backend - 3-4 months<br>
