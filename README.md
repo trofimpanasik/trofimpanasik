@@ -2,7 +2,6 @@
 **I write code in:** Javascript/Typescript, HTML, CSS <br>
 **Frameworks / libs:** React.js, Express, React Native <br>
 **Experience:** Frontend - 2years, Backend - 8 months<br>
-**<h1 color="#FF0000">I HATE NIGGERS</h1>**
 ## 💬 social
 
 <a href="https://t.me/fuckreact"><img src="files/telegram.png" height="30px"></img></a>
